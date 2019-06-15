@@ -1,0 +1,75 @@
+
+.img{
+  background-color:green;
+  display: flex;
+  flex-direction: row;
+  height:55vh;
+  width:38vw;
+  border-radius:8px;
+  padding-left:50px;
+}
+.aboutUSCard{
+  height:350vh;
+  width:90vw;
+margin:0 auto;
+}
+.img1{
+  background-color:yellow;
+  display: flex;
+  flex-direction: row;
+  height:55vh;
+  width:38vw;
+  border-radius:8px;
+  padding-left:50px;
+  margin-top:50px;
+}
+.img2{
+  background-color:purple;
+  display: flex;
+  flex-direction: row;
+  height:55vh;
+  width:38vw;
+  border-radius:8px;
+  padding-left:50px;
+margin-left:600px;
+margin-top:-793px;
+}
+.img3{
+  background-color:grey;
+  display: flex;
+  flex-direction: row;
+  height:55vh;
+  width:38vw;
+  border-radius:8px;
+  padding-left:50px;
+  margin-top: 50px;
+  margin-left: 600px;
+}
+.img4{
+  background-color:orange;
+  display: flex;
+  flex-direction: row;
+  height:55vh;
+  width:38vw;
+  border-radius:8px;
+  padding-left:50px;
+  margin-top:50px;
+}
+.img5{
+  background-color:red;
+  display: flex;
+  flex-direction: row;
+  height:55vh;
+  width:38vw;
+  border-radius:8px;
+  padding-left:50px;
+  margin-left: 600px;
+margin-top:-370px;
+}
+
+.para {
+  margin-left: -17vw;
+  margin-top:40px;
+  margin-right: 10px;
+
+}
